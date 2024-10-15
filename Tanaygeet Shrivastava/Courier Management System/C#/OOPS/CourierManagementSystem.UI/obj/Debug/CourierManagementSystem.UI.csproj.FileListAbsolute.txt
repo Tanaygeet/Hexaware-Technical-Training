@@ -1,0 +1,14 @@
+D:\C#\C# Assignment\OOPS\CourierManagementSystem.UI\obj\Debug\CourierManagementSystem.UI.csproj.AssemblyReference.cache
+D:\C#\C# Assignment\OOPS\CourierManagementSystem.UI\obj\Debug\CourierManagementSystem.UI.csproj.CoreCompileInputs.cache
+D:\C#\C# Assignment\OOPS\CourierManagementSystem.UI\bin\Debug\CourierManagementSystem.UI.exe.config
+D:\C#\C# Assignment\OOPS\CourierManagementSystem.UI\bin\Debug\CourierManagementSystem.UI.exe
+D:\C#\C# Assignment\OOPS\CourierManagementSystem.UI\bin\Debug\CourierManagementSystem.UI.pdb
+D:\C#\C# Assignment\OOPS\CourierManagementSystem.UI\bin\Debug\CourierManagementSystem.BusinessLayer.dll
+D:\C#\C# Assignment\OOPS\CourierManagementSystem.UI\bin\Debug\CourierManagementSystem.Entitiy.dll
+D:\C#\C# Assignment\OOPS\CourierManagementSystem.UI\bin\Debug\CourierManagementSystem.BusinessLayer.pdb
+D:\C#\C# Assignment\OOPS\CourierManagementSystem.UI\bin\Debug\CourierManagementSystem.Entitiy.pdb
+D:\C#\C# Assignment\OOPS\CourierManagementSystem.UI\obj\Debug\CourierM.76B64441.Up2Date
+D:\C#\C# Assignment\OOPS\CourierManagementSystem.UI\obj\Debug\CourierManagementSystem.UI.exe
+D:\C#\C# Assignment\OOPS\CourierManagementSystem.UI\obj\Debug\CourierManagementSystem.UI.pdb
+D:\C#\C# Assignment\OOPS\CourierManagementSystem.UI\bin\Debug\CourierManagemenySystem,DatabaseConnection.dll
+D:\C#\C# Assignment\OOPS\CourierManagementSystem.UI\bin\Debug\CourierManagemenySystem,DatabaseConnection.pdb

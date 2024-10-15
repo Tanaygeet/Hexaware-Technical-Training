@@ -1,0 +1,15 @@
+D:\C# Assignments\Task 4\CalculateShippingCosts4.5\bin\Debug\CalculateShippingCosts4.5.exe.config
+D:\C# Assignments\Task 4\CalculateShippingCosts4.5\bin\Debug\CalculateShippingCosts4.5.exe
+D:\C# Assignments\Task 4\CalculateShippingCosts4.5\bin\Debug\CalculateShippingCosts4.5.pdb
+D:\C# Assignments\Task 4\CalculateShippingCosts4.5\obj\Debug\CalculateShippingCosts4.5.csproj.AssemblyReference.cache
+D:\C# Assignments\Task 4\CalculateShippingCosts4.5\obj\Debug\CalculateShippingCosts4.5.csproj.SuggestedBindingRedirects.cache
+D:\C# Assignments\Task 4\CalculateShippingCosts4.5\obj\Debug\CalculateShippingCosts4.5.csproj.CoreCompileInputs.cache
+D:\C# Assignments\Task 4\CalculateShippingCosts4.5\obj\Debug\CalculateShippingCosts4.5.exe
+D:\C# Assignments\Task 4\CalculateShippingCosts4.5\obj\Debug\CalculateShippingCosts4.5.pdb
+D:\C#\C# Assignment\Task 4\CalculateShippingCosts4.5\bin\Debug\CalculateShippingCosts4.5.exe.config
+D:\C#\C# Assignment\Task 4\CalculateShippingCosts4.5\bin\Debug\CalculateShippingCosts4.5.exe
+D:\C#\C# Assignment\Task 4\CalculateShippingCosts4.5\bin\Debug\CalculateShippingCosts4.5.pdb
+D:\C#\C# Assignment\Task 4\CalculateShippingCosts4.5\obj\Debug\CalculateShippingCosts4.5.csproj.AssemblyReference.cache
+D:\C#\C# Assignment\Task 4\CalculateShippingCosts4.5\obj\Debug\CalculateShippingCosts4.5.csproj.CoreCompileInputs.cache
+D:\C#\C# Assignment\Task 4\CalculateShippingCosts4.5\obj\Debug\CalculateShippingCosts4.5.exe
+D:\C#\C# Assignment\Task 4\CalculateShippingCosts4.5\obj\Debug\CalculateShippingCosts4.5.pdb

@@ -1,0 +1,11 @@
+D:\C#\C# Assignment\OOPS\CourierManagementSystem.BusinessLayer\obj\Debug\CourierManagementSystem.BusinessLayer.csproj.AssemblyReference.cache
+D:\C#\C# Assignment\OOPS\CourierManagementSystem.BusinessLayer\obj\Debug\CourierManagementSystem.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\C#\C# Assignment\OOPS\CourierManagementSystem.BusinessLayer\bin\Debug\CourierManagementSystem.BusinessLayer.dll
+D:\C#\C# Assignment\OOPS\CourierManagementSystem.BusinessLayer\bin\Debug\CourierManagementSystem.BusinessLayer.pdb
+D:\C#\C# Assignment\OOPS\CourierManagementSystem.BusinessLayer\bin\Debug\CourierManagementSystem.Entitiy.dll
+D:\C#\C# Assignment\OOPS\CourierManagementSystem.BusinessLayer\bin\Debug\CourierManagementSystem.Entitiy.pdb
+D:\C#\C# Assignment\OOPS\CourierManagementSystem.BusinessLayer\obj\Debug\CourierM.EF0F93B8.Up2Date
+D:\C#\C# Assignment\OOPS\CourierManagementSystem.BusinessLayer\obj\Debug\CourierManagementSystem.BusinessLayer.dll
+D:\C#\C# Assignment\OOPS\CourierManagementSystem.BusinessLayer\obj\Debug\CourierManagementSystem.BusinessLayer.pdb
+D:\C#\C# Assignment\OOPS\CourierManagementSystem.BusinessLayer\bin\Debug\CourierManagemenySystem,DatabaseConnection.dll
+D:\C#\C# Assignment\OOPS\CourierManagementSystem.BusinessLayer\bin\Debug\CourierManagemenySystem,DatabaseConnection.pdb
